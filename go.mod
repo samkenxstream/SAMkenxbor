@@ -72,12 +72,12 @@ require (
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracegrpc v1.2.0
 	go.opentelemetry.io/otel/sdk v1.2.0
 	go.uber.org/goleak v1.1.12
-	golang.org/x/crypto v0.1.0
-	golang.org/x/sync v0.1.0
-	golang.org/x/sys v0.6.0
-	golang.org/x/text v0.8.0
+	golang.org/x/crypto v0.31.0
+	golang.org/x/sync v0.10.0
+	golang.org/x/sys v0.28.0
+	golang.org/x/text v0.21.0
 	golang.org/x/time v0.0.0-20210723032227-1f47c861a9ac
-	golang.org/x/tools v0.6.0
+	golang.org/x/tools v0.21.1-0.20240508182429-e35e4ccd0d2d
 	gonum.org/v1/gonum v0.11.0
 	google.golang.org/grpc v1.51.0
 	google.golang.org/protobuf v1.28.1
@@ -141,7 +141,7 @@ require (
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/golang/groupcache v0.0.0-20200121045136-8c9f03a8e57e // indirect
 	github.com/gomodule/redigo v2.0.0+incompatible // indirect
-	github.com/google/go-cmp v0.5.8 // indirect
+	github.com/google/go-cmp v0.6.0 // indirect
 	github.com/googleapis/gax-go/v2 v2.0.5 // indirect
 	github.com/gorilla/mux v1.8.0 // indirect
 	github.com/grpc-ecosystem/grpc-gateway v1.16.0 // indirect
@@ -205,9 +205,9 @@ require (
 	go.opentelemetry.io/otel/trace v1.2.0
 	go.opentelemetry.io/proto/otlp v0.10.0 // indirect
 	golang.org/x/exp v0.0.0-20220722155223-a9213eeb770e // indirect
-	golang.org/x/mod v0.8.0 // indirect
-	golang.org/x/net v0.8.0 // indirect
-	golang.org/x/term v0.6.0 // indirect
+	golang.org/x/mod v0.17.0 // indirect
+	golang.org/x/net v0.25.0 // indirect
+	golang.org/x/term v0.27.0 // indirect
 	golang.org/x/xerrors v0.0.0-20220411194840-2f41105eb62f // indirect
 	google.golang.org/api v0.34.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
